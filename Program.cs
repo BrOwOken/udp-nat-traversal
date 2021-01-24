@@ -82,7 +82,7 @@ namespace UdpNatStun
                         catch (Exception e)
                         {
 
-                            Console.WriteLine(e.Message);
+                            //Console.WriteLine(e.Message);
                         }
                 }
             }
@@ -178,7 +178,7 @@ namespace UdpNatStun
                     }
                     catch (Exception e)
                     {
-                        Console.WriteLine(e.Message);
+                        //Console.WriteLine(e.Message);
                     }
                    
                 }
